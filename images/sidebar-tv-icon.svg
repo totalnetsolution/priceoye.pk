@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>TV</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TV" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(0.000000, 4.000000)">
+            <rect id="Rectangle" stroke="#404040" fill="#FFFFFF" x="0.5" y="0.5" width="23" height="14" rx="1"></rect>
+            <polygon id="Path-6" fill="#404040" points="2 18 3.83543533 18 8 15 3.83543533 15"></polygon>
+            <polygon id="Path-6-Copy" fill="#404040" transform="translate(19.000000, 16.500000) scale(-1, 1) translate(-19.000000, -16.500000) " points="16 18 17.8354353 18 22 15 17.8354353 15"></polygon>
+        </g>
+    </g>
+</svg>

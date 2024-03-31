@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>refrigerator</title>
+    <desc>Created with Sketch.</desc>
+    <g id="refrigerator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(5.000000, 1.000000)">
+            <rect id="Rectangle" stroke="#404040" fill="#FFFFFF" x="0.5" y="0.5" width="13" height="21" rx="1"></rect>
+            <path d="M8,1 L8,21 L6,21 L6,1 L8,1 Z M10,8 L10,14 L9,14 L9,8 L10,8 Z M5,9 L5,13 L2,13 L2,9 L5,9 Z" id="Combined-Shape" fill="#404040"></path>
+        </g>
+    </g>
+</svg>
